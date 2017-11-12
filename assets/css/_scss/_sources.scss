@@ -1,0 +1,17 @@
+.source {
+	& .book-title {
+		font-style: italic;
+	}
+	& .meta {
+		text-align: right;
+		margin-bottom: 2rem;
+	}
+	& .tags {
+		font-size: 0.9rem;
+		font-style: italic;
+	}
+	& .projects {
+		font-size: 0.9rem;
+		font-style: italic;
+	}
+}

@@ -1,0 +1,19 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+
+# The Politics of Digital Platforms: A Stakeholder Forum
+
+Digital platforms increasingly mediate our experiences on the internet. From social networks like Facebook and Twitter, to cloud applications like Google Docs or Microsoft Word's online offerings, to media monoliths like Netflix and Amazon, a majority of internet users live their online lives within walled gardens that, while interoperable with each other in many ways, seem a far cry from the cyberpunk dreams of the open web from the 1980's and 1990's. Indeed, for many internet users, particularly in the Global South, [Facebook in particular constitutes the internet as such](https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/), not just a single site among many. Moreover, the political battles around [net neutrality](https://www.aclu.org/issues/free-speech/internet-speech/what-net-neutrality) point to the telecommunications platforms—Comcast, Time Warner, and so forth—that control our access to such sites in the first place. Clearly, this is a crucial time for examining the political and pragmatic stakes of digital platforms.
+
+**This issue takes on special significance for the first year composition classroom.** For many students, the composition classroom is the first time that they are asked to reflect upon otherwise naturalized writing practices, and develop argumentative and persuasive skills that respond to the exigencies and constraints of a genre or medium. Digital composition assignments are not immune to the political questions sketched out above, and indeed, many such assignments depend heavily on various digital platforms, from [Wordpress](https://wordpress.com/) to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), to facilitate teaching. Such assignments rely on platforms for a variety of reasons, from the ideological—Wikipedia, for instance, reaches millions of people every day, and as such is a valuable site for students to make a real impact with their writing—to the pragmatic—platforms like Weebly or Wordpress make composing for the web a seamless and straightforward practice, removing the need for teaching students "how to code." **But the use of these platforms naturalizes other kinds of assumptions about digital composition**—assumptions about the value and reach of the digital over the analog, the role of citational practice, the stakes of multimodal and multimedia composition, and the extent to which the digital operates as a pre-given space upon which to hang an argument, rather than as a technology (like paper) that manifests its own technological affordances and limitations. 
+
+This digital forum explores the political and methodological role that digital platforms play in the first year composition classroom from three stakeholder perspectives. While they can be read in any order, they follow a rough progression: 
+- First, from the perspective of [students themselves](/students/), as both members of a composition classroom and as users of digital technologies more generally; 
+- Second, from that of [teachers of first-year composition](/teachers/), with a particular focus on graduate students, given that they are more likely to teach such introductory classes at most major universities; 
+- And finally, from the perspective of [the platforms themselves](/platforms/), by which we can think both of the major corporations or foundations that build and manage these platforms, but also of the platforms as nonhuman agents and presences within the composition classroom itself. 
+
+There is also a [reading list](/reading-list/) of further sources for consideration. 
