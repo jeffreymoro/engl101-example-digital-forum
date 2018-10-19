@@ -1,6 +1,6 @@
 title: The Politics of Digital Platforms
 description: "A Stakeholder Forum by Jeffrey Moro"
-baseurl: "/611-digital-forum" # the subpath of your site, e.g. /blog
+baseurl: "/engl101-example-digital-forum" # the subpath of your site, e.g. /blog
 url: "https://jeffreymoro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeffreymoro
 github_username:  jeffreymoro
